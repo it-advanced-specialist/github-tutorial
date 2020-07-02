@@ -1,3 +1,5 @@
 #README.md
 
-git clone ....
+1. fork
+2. clone
+
